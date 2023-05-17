@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **CSS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abdulrahman7887](https://github.com/abdulrahman7887)
+- 👨‍💻 All of my projects are available at [https://github.com/abdulrahman788](https://github.com/AbdulRahman788)
 
-- 📫 How to reach me **rahmanmsar78@gmail.com**
+- 📫 How to reach me **rahmanif799@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
