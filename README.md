@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman</h1>
-<h3 align="center">Web dev Enthusiast</h3>
+<h3 align="center">Web Development | A.I Enthusiastic | Machine Learning</h3>
 <img align="right" alt="coding" width="350" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-abdul-rahman7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-abdul-rahman7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-abdul-rahman7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rahman13/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
